@@ -1,0 +1,48 @@
+{
+    "dmg-app": {
+
+        "Google Chrome": "https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg",
+        "CleanMyMac 2": "http://dl.devmate.com/com.macpaw.CleanMyMac2/CleanMyMac2.dmg",
+        "Transmission": "http://download.transmissionbt.com/files/Transmission-2.77.dmg",
+        "Sequal Pro": "http://sequel-pro.googlecode.com/files/sequel-pro-1.0.1.dmg",
+        "HandBreak": "http://downloads.sourceforge.net/project/handbrake/0.9.8/HandBrake-0.9.8-MacOSX.6_GUI_x86_64.dmg?r=http%3A%2F%2Fhandbrake.fr%2Fdownloads.php&ts=1364758072&use_mirror=superb-dca2",
+        "VLC": "http://downloads.sourceforge.net/project/vlc/2.0.5/macosx/vlc-2.0.5.dmg?r=http%3A%2F%2Fwww.videolan.org%2Fvlc%2F&ts=1364758146&use_mirror=iweb",
+        "Skype": "http://www.skype.com/go/getskype-macosx.dmg"
+    },
+
+    "dmg-installer": {
+        "Dropbox": "https://www.dropbox.com/download?plat=mac"
+    },
+
+    "preference-pane": {
+
+        "RCDefaultApp": "http://www.rubicode.com/Downloads/RCDefaultApp-2.1.X.dmg",
+        "Hazel": "http://www.noodlesoft.com/Products/Hazel/download"
+    },
+
+    "zipped": {
+        "Alfred 2": "http://cachefly.alfredapp.com/Alfred_2.0.2_178.zip",
+        "1Password": "https://d13itkw33a7sus.cloudfront.net/dist/1P/mac/1Password-3.8.20.zip",
+        "Better touch tool": "http://www.boastr.de/BetterTouchTool.zip",
+        "Carbon Copy Cloner": "http://www.bombich.com/software/download_ccc.php",
+        "gfxCardStatus": "http://codykrieger.com/downloads/gfxCardStatus-2.3.zip",
+        "ImageOptim": "http://imageoptim.com/ImageOptim.tbz2",
+        "TextExpander": "http://cdn.smilesoftware.com/TextExpander_4.0.5.zip",
+        "iStat Menu": "http://s3.amazonaws.com/bjango/files/istatmenus4/istatmenus4.04.zip",
+        "iStat Server": "http://updates.bjango.com/istatserver/mac/download/",
+        "nvALT": "http://abyss.designheresy.com/nvalt/files/nvalt2.2b105.zip",
+        "Minecraft": "https://s3.amazonaws.com/MinecraftDownload/launcher/Minecraft.zip",
+        "CandyBar": "http://panic.com/candybar/d/CandyBar%203.3.4.zip",
+        "Divvy": "http://mizage.com/downloads/Divvy.zip"
+    },
+
+    "fonts": {
+        "Inconsolata": "http://www.levien.com/type/myfonts/Inconsolata.otf"
+    },
+
+    "find-link": {
+        "Now Playing": "http://osxdaily.com/2012/08/13/show-now-playing-itunes-alert-notification-center-mac-os-x/",
+        "OpenEmu": "https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide"
+    }
+
+}
