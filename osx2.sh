@@ -820,11 +820,11 @@ function set_application_preferences () {
 
   ## Applications / VueScan
 
-  /bin/cat > "$HOME/Library/Preferences/vuescan.ini" <<-EOF
-    [VueScan]
-    [Prefs]
-    StartupTip=0
-    EOF
+  # /bin/cat > "$HOME/Library/Preferences/vuescan.ini" <<-EOF
+  #   [VueScan]
+  #   [Prefs]
+  #   StartupTip=0
+  #   EOF
 
 
   ## Utilities / 1Password
@@ -834,13 +834,13 @@ function set_application_preferences () {
 
   ## Utilities / Airfoil
 
-  /usr/bin/defaults write com.rogueamoeba.Airfoil 'didShowAirfoil4WelcomeWindow' -bool true
-  /usr/bin/defaults write com.rogueamoeba.AirfoilSpeakers 'didShowAirfoil4WelcomeWindow' -bool true
+  # /usr/bin/defaults write com.rogueamoeba.Airfoil 'didShowAirfoil4WelcomeWindow' -bool true
+  # /usr/bin/defaults write com.rogueamoeba.AirfoilSpeakers 'didShowAirfoil4WelcomeWindow' -bool true
 
 
   ## Utilities / Audio Hijack Pro
 
-  /usr/bin/defaults write com.rogueamoeba.AudioHijackPro2 'didShowAirfoil4WelcomeWindow' -bool true
+  # /usr/bin/defaults write com.rogueamoeba.AudioHijackPro2 'didShowAirfoil4WelcomeWindow' -bool true
 
 
   ## Utilities / Carbon Copy Cloner
