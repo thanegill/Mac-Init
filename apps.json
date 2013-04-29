@@ -22,6 +22,7 @@
 
     "zipped": {
         "Alfred 2": "http://cachefly.alfredapp.com/Alfred_2.0.2_178.zip",
+        "Colloquy": "http://colloquy.info/downloads/colloquy-latest.zip",
         "1Password": "https://d13itkw33a7sus.cloudfront.net/dist/1P/mac/1Password-3.8.20.zip",
         "BetterTouchTool": "http://www.boastr.de/BetterTouchTool.zip",
         "Carbon Copy Cloner": "http://www.bombich.com/software/download_ccc.php",
@@ -33,7 +34,8 @@
         "nvALT": "http://abyss.designheresy.com/nvalt/files/nvalt2.2b105.zip",
         "Minecraft": "https://s3.amazonaws.com/MinecraftDownload/launcher/Minecraft.zip",
         "CandyBar": "http://panic.com/candybar/d/CandyBar%203.3.4.zip",
-        "Divvy": "http://mizage.com/downloads/Divvy.zip"
+        "Divvy": "http://mizage.com/downloads/Divvy.zip",
+        "f.lux" : "http://stereopsis.com/flux/dlmac.html"
     },
 
     "fonts": {
