@@ -1,15 +1,11 @@
 #!/bin/bash
 
-
-
-
 sudo -v
 
 BACKUP_DRIVE="Macintosh SSD Backup"
 OLD_USER_PATH="$BACKUP_DRIVE/Users/thanegill"
 
 # 2ND_DRIVE="Macintosh HD"
-
 
 # Remove Folders to be symlinked
 rm -rf ~/Pictures
